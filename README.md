@@ -35,7 +35,7 @@ Python 3.12 · pyenv · VS Code · Git
 
 ## Setup
 ```bash
-git clone https://github.com/philcodex/PythonLearn.git
+git clone https://github.com/philcodex/Learn-Python
 cd PythonLearn
 pip install -r requirements.txt
 ```
