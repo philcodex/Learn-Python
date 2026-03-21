@@ -6,7 +6,7 @@ A collection of Python projects built while learning — each one tackling a rea
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| `currency-converter` | Convert between currencies using a live exchange rate API | 🚧 In Progress |
+| [`currency-converter`](https://github.com/philcodex/Learn-Python/tree/main/Projects/currency-converter) | Convert between currencies using a live exchange rate API | 🚧 In Progress |
 
 ---
 
