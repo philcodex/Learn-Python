@@ -7,6 +7,10 @@ A collection of Python projects built while learning — each one tackling a rea
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`currency-converter`](https://github.com/philcodex/Learn-Python/tree/main/Projects/currency-converter) | Convert between currencies using a live exchange rate API | 🚧 In Progress |
+| [`calculator`](https://github.com/philcodex/Learn-Python/tree/main/Projects/calculator) | Basic calculator built in Python | 🚧 In Progress |
+| [`api-tests`](https://github.com/philcodex/Learn-Python/tree/main/Projects/api-tests) | Experimenting with REST APIs and HTTP requests | 🚧 In Progress |
+| [`Loops`](https://github.com/philcodex/Learn-Python/tree/main/Projects/Loops) | Loop exercises and examples | 🚧 In Progress |
+| [`Scripts`](https://github.com/philcodex/Learn-Python/tree/main/Projects/Scripts) | Utility scripts and automation | 🚧 In Progress |
 
 ---
 
