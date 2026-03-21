@@ -30,7 +30,7 @@ platforms = ["Slack", "Jira", "GitHub", "Okta"]
 for app in platforms:
     # We use an 'f-string' to inject the variable into the text
     print(f"Checking integration status for: {app}")
---
+
 # Stripe SaaS Operations Interview Example: Processing Customer Subscriptions
 # In SaaS operations, we often need to process lists of data like customer subscriptions,
 # calculate metrics, or perform batch operations.
