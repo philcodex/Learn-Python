@@ -7,11 +7,11 @@ A structured path for learning Python — from the basics through to real-world 
 ## Stage 1 — The Basics
 > Get comfortable with the language fundamentals
 
-- [ ] Variables & data types (`str`, `int`, `float`, `bool`)
-- [ ] User input & output (`input()`, `print()`)
+- [x] Variables & data types (`str`, `int`, `float`, `bool`)
+- [x] User input & output (`input()`, `print()`)
 - [ ] String manipulation (slicing, methods, f-strings)
-- [ ] Arithmetic & comparison operators
-- [ ] Comments & code structure
+- [x] Arithmetic & comparison operators
+- [x] Comments & code structure
 
 ---
 
@@ -21,8 +21,8 @@ A structured path for learning Python — from the basics through to real-world 
 - [ ] `if`, `elif`, `else` statements
 - [ ] Comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
 - [ ] Logical operators (`and`, `or`, `not`)
-- [ ] `while` loops
-- [ ] `for` loops
+- [x] `while` loops
+- [x] `for` loops
 - [ ] `break`, `continue`, `pass`
 - [ ] `range()`
 
@@ -31,9 +31,9 @@ A structured path for learning Python — from the basics through to real-world 
 ## Stage 3 — Data Structures
 > Store and organise data effectively
 
-- [ ] Lists — indexing, slicing, methods, comprehensions
+- [x] Lists — indexing, slicing, methods, comprehensions
 - [ ] Tuples — immutable sequences
-- [ ] Dictionaries — key/value pairs, methods
+- [x] Dictionaries — key/value pairs, methods
 - [ ] Sets — unique values, set operations
 - [ ] Nested data structures
 - [ ] When to use each structure
@@ -43,7 +43,7 @@ A structured path for learning Python — from the basics through to real-world 
 ## Stage 4 — Functions
 > Write reusable, organised code
 
-- [ ] Defining and calling functions
+- [x] Defining and calling functions
 - [ ] Parameters & arguments
 - [ ] Default parameters
 - [ ] Return values
