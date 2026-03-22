@@ -7,6 +7,7 @@ A reference guide covering common Python loop questions — useful for interview
 ## 1. Basic `for` loop
 
 **What does a `for` loop do in Python?**
+
 A `for` loop iterates over each item in an iterable (such as a list, string, or range) and executes a block of code for each item.
 
 **How is a `for` loop different from a `while` loop?**
@@ -110,9 +111,11 @@ To define structure before implementing logic or avoid syntax errors.
 ## 10. Filtering in loops
 
 **How do you print only values matching a condition?**
+
 Use an `if` statement inside the loop.
 
 **How would you print only even numbers from a list?**
+
 ```python
 numbers = [1, 2, 3, 4, 5, 6]
 
