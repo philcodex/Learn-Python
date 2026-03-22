@@ -1,8 +1,8 @@
 # Python Loops Daily Checklist
 
 ## Day 1
-- [ ] Basic for loop
-- [ ] range()
+- [x] Basic for loop
+- [x] range()
 - [ ] while loop
 - [ ] loop with else
 - [ ] loop through string
