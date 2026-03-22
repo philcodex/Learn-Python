@@ -14,7 +14,7 @@ Everything here is a work in progress. The goal isn't perfection, it's consisten
 | [`projects`](https://github.com/philcodex/Learn-Python/tree/main/Projects) | Small projects built to apply what I've learned |
 | [`api-tests`](https://github.com/philcodex/Learn-Python/tree/main/api-tests) | Experimenting with REST APIs and HTTP requests |
 <!-- | [`challenges`](https://github.com/philcodex/Learn-Python/tree/main/challenges) | Coding exercises and problem solving | -->
-| [`notes`]([https://github.com/philcodex/Learn-Python/tree/main/notes](https://github.com/philcodex/Learn-Python/tree/main/04-Notes)) | Cheatsheets and snippets I keep coming back to |
+| [`notes`]([https://github.com/philcodex/Learn-Python/tree/main/04-Notes](https://github.com/philcodex/Learn-Python/tree/main/04-Notes)) | Cheatsheets and snippets I keep coming back to |
 
 ---
 
