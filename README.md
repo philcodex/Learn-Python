@@ -1,4 +1,4 @@
-# 🐍 PythonLearn
+# 🐍 Python in Progress
 
 A personal learning repo documenting my Python journey. From fundamentals to real-world projects.
 
