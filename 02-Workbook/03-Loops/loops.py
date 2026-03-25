@@ -177,3 +177,19 @@ for number in range(3):
     if successful:
         print("successful")
         
+credit_card = "1234-5678-9012-3456"
+for x in credit_card:
+    print(x)
+
+for x in range(1, 21):
+    if x == 13:
+        continue # gets to 13 and continues
+    else:
+        print(x)
+
+for x in range(1, 21):
+    if x == 13:
+        break # gets to 13 and breaks out of loop
+    else:
+        print(x)
+

@@ -13,7 +13,7 @@ A `for` loop iterates over each item in an iterable (such as a list, string, or 
 **How is a `for` loop different from a `while` loop?**
 
 A `for` loop is used when iterating over a known sequence or collection.
-A `while` loop is used when the loop should continue based on a condition and the number of iterations is not known in advance.
+- [ ] A `while` loop is used when the loop should continue based on a condition and the number of iterations is not known in advance.
 
 ---
 
