@@ -1,4 +1,4 @@
-# latency-monitor
+# Latency Monitor
 
 A lightweight command-line tool to measure HTTP response latency for any URL. Runs a configurable number of curl requests, timestamps each result, and prints a summary with the average response time.
 
