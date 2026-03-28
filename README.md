@@ -44,6 +44,3 @@ pip install -r requirements.txt
 
 *Updated regularly as I learn. Started 2026.*
 
-## Progress Update Sat 28 Mar 2026 13:20:12 GMT
-## Progress Update Sat 28 Mar 2026 13:28:18 GMT asd
-## Progress Update Sat 28 Mar 2026 14:31:24 GMT asdasd
